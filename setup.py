@@ -4,7 +4,7 @@ from setuptools import setup
 setup(
     name='ocrme',
     version='0.0.3',
-    url="https://github.com/aniversarioperu/googlescholar_scrapper",
+    url="https://github.com/aniversarioperu/ocrme",
     author="AniversarioPeru",
     author_email="aniversarioperu1@gmail.com",
     maintainer="AniversarioPeru",
